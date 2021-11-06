@@ -1,6 +1,24 @@
 ---
 # BALANCING DATA
 
+### Observations ###
+<ol>
+<li>The dataset is highly imbalanced (less than one percent of the data is from the class 1).</li>
+<li>In order to implement the a classification model is needed to balanced the data first.</li>
+<li>Can make a over sampling and under sampling to get a balanced data.</li>
+</ol>
+
+### Modifications ###
+<ol>
+<li>The dataset was divided in features and target, in order to implement different techniques to andle with imbalanced data three sets of data was created.</li>
+<li>An oversampling (smothe) technique was applied to the raw data, the resulting data has over 600,000 instances.</li>
+<li>over_x and over_y is the features and target respectively with the oversampling "filtter" applied.</li>
+<li>An undersampling technique was applied to the raw data, the resulting data has 962 instances.</li>
+<li>under_x and under_y is the features and target respectively with the undersampling "filtter" applied.</li>
+</ol>
+
+---
+
 ## ORIGINAL DATA
 ![Logo](images/original_data.png)
 <table border=\"1\" class=\"dataframe\">
