@@ -27,8 +27,8 @@ The imbalanced data refers a problemn where the number of observations is not eq
 
 *Click on the images to see in high resolution (or on the EDA folder for more information anf for the code used)*
 
-<img src="EDA/images/plotbars1.png" alt="drawing" width="300"/><img src="EDA/images/correlationmatrix.png" alt="drawing" width="300"/>
-<img src="EDA/images/boxplots1.png" alt="drawing" width="300" height="300"/>
+<img src="EDA/images/plotbars1.png" alt="drawing" width="240"/><img src="EDA/images/correlationmatrix.png" alt="drawing" width="240"/>
+<img src="EDA/images/boxplots1.png" alt="drawing" width="240" height="240"/>
 
 
 ## Logistic Regression ##
